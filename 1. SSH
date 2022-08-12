@@ -14,4 +14,4 @@ Just like a web browser uses the HTTPS protocol to talk with servers, and displa
 
 The significant advantage offer by SSH over its predecessors is the use of encryption to ensure secure transfer of information between host and the client. The host refers to the remote server you're trying to access, while the client is the computer you're using to access the host. And any bad actor can't read our messages because of encryption. It's secure. Now let's see how to use SSH.
 
-# 2. SSH Command
+ 2. SSH Command
